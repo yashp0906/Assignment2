@@ -10,3 +10,10 @@ The client, an AI developer, uses web scraping to generate training data. The sy
 - Export structured training data in standard AI formats.
 - Support role-based access control and search/filtering features.
 - Enable scheduled and real-time web scraping for data collection.
+
+## System Requirements Overview
+- Store categorized data in a structured, scalable database.
+- Support exporting categorized training data for external use.
+- Implement adjustable bias detection criteria and encryption.
+- Provide backup, recovery, and auditing functionalities.
+- Ensure high query performance and mobile-friendly accessibility.
