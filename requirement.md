@@ -53,3 +53,38 @@ You have had a few meetings with the client. At this point, you are quite confid
 - **Validation**: Evaluate the efficacy of data retrieval by running tests on various websites.
 
 ---
+## System Requirements
+
+### 1. Database for Categorized Training Questions
+- **Assumption**: The database should be scalable and structured efficiently.
+- **Validation**: Perform performance testing to ensure scalability.
+
+### 2. Exporting Categorized Training Data
+- **Assumption**: Users can export categorized data for external analysis.
+- **Validation**: Check the accuracy of the data after several export-import cycles.
+
+### 3. Adjustable Bias Detection Criteria
+- **Assumption**: Depending on the needs of the customer, criteria can be dynamically set.
+- **Validation**: Check limit adjustability by changing various settings.
+
+### 4. Data Encryption for Stored Training Data
+- **Assumption**: System performance will not be significantly affected by encryption techniques.
+- **Validation**: Perform hacking tests to verify the security of stored data.
+
+### 5. Backup and Recovery Options
+- **Assumption**: Data loss is a serious risk that needs to be reduced.
+- **Validation**: Use actual data loss scenarios to test backup and recovery procedures.
+
+### 6. User Activity Logs for Auditing
+- **Assumption**: Audit logs are essential for identifying issues and ensuring compliance.
+- **Validation**: Perform security audits to make sure user activity is properly logged.
+
+### 7. High Query Handling Capacity
+- **Assumption**: System performance is essential for extensive queries.
+- **Validation**: Performance testing is used to measure query response times under various loads.
+
+### 8. Mobile-Friendly Interface
+- **Assumption**: Users should be able to use mobile devices to access analytics and training data.
+- **Validation**: Test the UI's performance and responsiveness across a range of mobile devices.
+
+---
